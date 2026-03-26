@@ -1,0 +1,6 @@
+{
+  "firmware": {
+    "version": "2.1.1",
+    "url": "https://raw.githubusercontent.com/Franklnir/firmware-xiaozhi-esp32c3-mini/main/xiaozhi_v2.1.1_full_4MB.bin"
+  }
+}
