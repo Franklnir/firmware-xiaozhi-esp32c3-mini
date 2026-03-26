@@ -1,0 +1,1 @@
+# firmware-xiaozhi-esp32c3-mini
